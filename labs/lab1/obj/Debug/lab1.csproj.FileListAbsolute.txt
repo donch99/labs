@@ -1,0 +1,6 @@
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\bin\Debug\lab1.exe.config
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\bin\Debug\lab1.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\bin\Debug\lab1.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\obj\Debug\lab1.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab1\obj\Debug\lab1.pdb

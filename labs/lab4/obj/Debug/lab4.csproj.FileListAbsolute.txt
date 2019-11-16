@@ -1,0 +1,12 @@
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\bin\Debug\lab4.exe.config
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\bin\Debug\lab4.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\bin\Debug\lab4.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.Form1.resources
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\bin\Debug\lab5.dll
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\bin\Debug\lab5.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab4\obj\Debug\lab4.csproj.CopyComplete

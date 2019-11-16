@@ -1,0 +1,5 @@
+D:\Programming\Program\1.languages\C#_Masha\labs\lab6_1\bin\Debug\lab6_1.exe.config
+D:\Programming\Program\1.languages\C#_Masha\labs\lab6_1\bin\Debug\lab6_1.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab6_1\bin\Debug\lab6_1.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab6_1\obj\Debug\lab6_1.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab6_1\obj\Debug\lab6_1.pdb

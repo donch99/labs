@@ -1,0 +1,10 @@
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab3.exe.config
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab3.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab3.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab2.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab2.pdb
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\bin\Debug\lab2.exe.config
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\obj\Debug\lab3.csproj.CopyComplete
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\obj\Debug\lab3.exe
+D:\Programming\Program\1.languages\C#_Masha\labs\lab3\obj\Debug\lab3.pdb
